@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm an undergraduate student passionate about computer science, algorithms, and software engineering.
+I'm an undergraduate student passionate about computer science, machine learning and artificial intelligence.
 
 - 🎓 **21 - 24:** Nguyen Thi Minh Khai High School for the Gifted, Soc Trang  
 - 🏆 **3rd Prize:** VOI24 (Vietnam Olympiad in Informatics 2024)
