@@ -17,4 +17,4 @@ I'm an undergraduate student passionate about computer science, algorithms, and 
 
 ---
 
-> “Everything fade, only the Death endures - Three Body Problem - Death's End”
+> “Everything fade, only the Death endures - Death's End, Three Body Problem”
