@@ -17,4 +17,4 @@ I'm an undergraduate student passionate about computer science, machine learning
 
 ---
 
-> “Everything fade, only the Death endures - Death's End, Three Body Problem”
+> “The sacrifice of oneself to the pursuit of knowledge is the highest tribute to the gods. - Noita”
